@@ -28,8 +28,7 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Deployed Application 
 
-Food Festival Downloadable App
-<img src="./public/chromeDevtools.PNG alt="mainpage"/>
+![](public/images/chromeDevtools.PNG)
 
 
 ## Usage
