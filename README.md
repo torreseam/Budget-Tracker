@@ -17,8 +17,6 @@
 
 * [Contributing](#contributing)
 
-* [Questions](questions)
-
 * [Heroku Page](#heroku-page)
 
 * [License](#license)
@@ -32,17 +30,12 @@ SO THAT my account balance is accurate when I am traveling
 ```
 
 
-
-
-
 ## Deployed Application 
 
 ![MainPage](./public/chromeDevtools.PNG)
 
 
 ![OffLine](./public/offline-chromeDevtools2.PNG)
-
-
 
 
 ## Usage
@@ -55,6 +48,10 @@ Budget tracker, it should provide the following functionality:
 
 * Offline entries should be added to the tracker when the application is brought back online.
 
+* Download the repo and npm start for server 3001 to initiate
+
+* Follow the Heroku Link and use ChromeDev tools to take the application offline
+
 
 ## Contributing
 
@@ -62,9 +59,8 @@ Budget tracker, it should provide the following functionality:
 ### [BudgetTracker Repo](https://github.com/torreseam/Budget-Tracker.git)
 
 
-## Questions
 
-### By ✉️ email @ torreseam.purdue@gmail.com
+### [✉️Questions](torreseam.purdue@gmail.com)
 
 
 ## Heroku Page
