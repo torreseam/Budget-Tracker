@@ -19,7 +19,7 @@
 
 * [Questions](questions)
 
-* [Heroku Page](#herokupage)
+* [Heroku Page](#heroku-page)
 
 * [License](#license)
 
@@ -62,8 +62,9 @@ Budget tracker, it should provide the following functionality:
 ### [BudgetTracker Repo](https://github.com/torreseam/Budget-Tracker.git)
 
 
-##Questions
-### torreseam.purdue@gmail.com for ✉️ email 
+## Questions
+
+### By ✉️ email @ torreseam.purdue@gmail.com
 
 
 ## Heroku Page
