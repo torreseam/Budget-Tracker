@@ -28,7 +28,7 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Deployed Application 
 
-![](public/images/chromeDevtools.PNG)
+![](./public/images/chromeDevtools.PNG)
 
 
 ## Usage
