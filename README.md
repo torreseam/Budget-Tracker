@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Budget Tracker</h1>
 
 <p align="center">
@@ -7,6 +5,23 @@
 <img src="https://img.shields.io/badge/Express-red"/>
 <img src="https://img.shields.io/badge/Node.js-success"/>
 <img src="https://img.shields.io/badge/Mongoose-lightblue"/>
+
+
+## Table of Contents
+
+* [User Story](#user-story)
+
+* [Deployed Application](#deployed-application)
+
+* [Usage](#usage)
+
+* [Contributing](#contributing)
+
+* [Questions](questions)
+
+* [Heroku Page](#herokupage)
+
+* [License](#license)
 
 ## User Story
 
@@ -17,18 +32,17 @@ SO THAT my account balance is accurate when I am traveling
 ```
 
 
-## Table of Contents
 
-* [User Story](#user-story)
-* [Deployed Application](#deployed-application)
-* [Usage](#usage)
-* [Contributing&Questions](#contributing&questions)
-* [License](#license)
 
 
 ## Deployed Application 
 
 ![MainPage](./public/chromeDevtools.PNG)
+
+
+![OffLine](./public/offline-chromeDevtools2.PNG)
+
+
 
 
 ## Usage
@@ -42,9 +56,19 @@ Budget tracker, it should provide the following functionality:
 * Offline entries should be added to the tracker when the application is brought back online.
 
 
-## Contributing & Questions
+## Contributing
 
-### [torreseam for GitHub](https://github.com/torreseam)  
+### [@GitHub](https://github.com/torreseam)
+### [BudgetTracker Repo](https://github.com/torreseam/Budget-Tracker.git)
+
+
+##Questions
+### torreseam.purdue@gmail.com for ✉️ email 
+
+
+## Heroku Page
+
+### [HEROKU Link](https://calm-headland-75460.herokuapp.com/) 
 
 
  ## License
